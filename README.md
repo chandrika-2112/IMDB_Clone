@@ -25,5 +25,6 @@ IMDb Movies is a simple web application that allows users to search for movies u
 **Contributing:**
 Contributions are welcome! If you find a bug, have a feature request, or want to contribute in any way, feel free to open an issue or submit a pull request.
 
-
+**Live Demo:**
+[IMDb Movies Demo](https://chandrika-2112.github.io/IMDB_Clone/) (Replace with your live demo link)
 
